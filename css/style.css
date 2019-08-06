@@ -358,7 +358,7 @@ color:white;
 .footer{
   text-align: center;
   box-sizing: border-box;
-  position: relative;
+  position: fixed;
   bottom: 0;
   width: 100%;
   display: block;
