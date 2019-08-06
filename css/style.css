@@ -22,7 +22,7 @@ font-weight: 700;
 	font-size: 3rem;
 	font-weight: 700;
 	color: #fff;
-  padding-top: 2%;
+  padding-top: 100 px;
   text-align: center;
 }
 .nameSubTitle{
@@ -98,7 +98,7 @@ me {grid-area:column1;}*/
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
-	margin-bottom: 150px;
+	margin-bottom: 50px;
 	
 
 }
